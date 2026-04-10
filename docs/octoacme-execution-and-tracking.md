@@ -15,6 +15,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Include issue link and acceptance criteria in PR description
   - Run automated tests and linting in CI before requesting review
   - Require at least one approval before merging (or team-defined policy)
+- Track execution decisions and status updates against the Decision Log for transparency.
 
 ## Quality & Testing
 - Unit tests for new logic
@@ -38,3 +39,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Decision Log updated for key trade-offs and escalations
+- [ ] Action items and follow-up owners tracked after demos

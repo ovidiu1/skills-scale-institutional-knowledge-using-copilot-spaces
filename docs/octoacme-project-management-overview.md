@@ -26,6 +26,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
 - Risk Register
+- Decision Log / Change Register
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
@@ -34,6 +35,11 @@ Applies to all cross-functional projects that deliver product features, services
 3. Execution: build, test, review, iterate.
 4. Release: deploy, verify, announce.
 5. Close & Retrospective: capture learnings and next steps.
+
+## Decision Making & Change Control
+- Record major decisions and who authorized them in a Decision Log.
+- Track changes to scope, requirements, or schedule in a Change Register.
+- Use documented decisions to reduce rework and keep stakeholders aligned.
 
 ## Communication Cadence
 - Weekly sync between PM + PdM
