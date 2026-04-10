@@ -34,6 +34,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Capture in Risk Register:
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
+- Confirm owner and handoff points for each dependency and approval path for changes
+
+## Decision & Change Control
+- Establish a Decision Log for key trade-offs and approval points.
+- Identify change requests early and document expected impact on scope, budget, or timeline.
+- Agree on who must approve changes before work starts.
 
 ## Planning Checklist
 - [ ] Project kickoff held
@@ -41,3 +47,5 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Decision Log / Change Register created
+- [ ] Roles, approvals, and handoffs clarified
